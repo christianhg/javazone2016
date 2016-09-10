@@ -8,6 +8,7 @@ The best ★★★★
 ## Code Review Matters and Manners
 Not jeopardizing the psychological safty of the team. Being better at giving and receiving code reviews. Pretty good speakers.
 - [2016.javazone.no/program/code-review-matters-and-manners](https://2016.javazone.no/program/code-review-matters-and-manners)
+- [vimeo.com/182087729](https://vimeo.com/182087729)
 
 ## The Silver Bullet Syndrome
 Is there really a silver bullet that solves our needs and are we even looking for it? World class speaker.
@@ -48,6 +49,7 @@ Interesting ★★✩✩
 
 #### Learn to be Lucky
 - [2016.javazone.no/program/learn-to-be-lucky](https://2016.javazone.no/program/learn-to-be-lucky)
+- [vimeo.com/182063118](https://vimeo.com/182063118)
 
 #### Personal security
 - [2016.javazone.no/program/personal-security](https://2016.javazone.no/program/personal-security)
@@ -55,6 +57,7 @@ Interesting ★★✩✩
 
 #### The road to nines is paved with war stories
 - [2016.javazone.no/program/the-road-to-nines-is-paved-with-war-stories](https://2016.javazone.no/program/the-road-to-nines-is-paved-with-war-stories)
+- [vimeo.com/182063119](https://vimeo.com/182063119)
 
 #### Typescript - now you have no more excuses.
 - [2016.javazone.no/program/typescript-now-you-have-no-more-excuses](https://2016.javazone.no/program/typescript-now-you-have-no-more-excuses)
@@ -70,9 +73,11 @@ Mildly disappointing ★✩✩✩
 
 ##### Angular Material 2: Reward your app with high-quality UI in minutes
 - [2016.javazone.no/program/angular-material-2-reward-your-app-with-high-quality-ui-in-minutes](https://2016.javazone.no/program/angular-material-2-reward-your-app-with-high-quality-ui-in-minutes)
+- [vimeo.com/181936892](https://vimeo.com/181936892)
 
 ##### Implement universally designed solutions or your drunk grandma will suffer for it!
 - [2016.javazone.no/program/implement-universally-designed-solutions-or-your-drunk-grandma-will-suffer-for-it](https://2016.javazone.no/program/implement-universally-designed-solutions-or-your-drunk-grandma-will-suffer-for-it)
+- [vimeo.com/182070288](https://vimeo.com/182070288)
 
 ##### På tur med Arkitektur i STORE Bedrifter
 - [2016.javazone.no/program/pa-tur-med-arkitektur-i-store-bedrifter](https://2016.javazone.no/program/pa-tur-med-arkitektur-i-store-bedrifter)
